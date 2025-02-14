@@ -47,7 +47,7 @@
   "dependencies": {
     "@types/node": "10.12.18",
     "bech32": "^1.1.2",
-    "bip32": "^2.0.3",
+    "bip32": "^3.0.0",
     "bip66": "^1.1.0",
     "bitcoin-ops": "^1.4.0",
     "bs58check": "^2.0.0",
@@ -56,7 +56,7 @@
     "merkle-lib": "^2.0.10",
     "pushdata-bitcoin": "^1.0.1",
     "randombytes": "^2.0.1",
-    "tiny-secp256k1": "^1.1.1",
+    "tiny-secp256k1": "^2.0.0",
     "typeforce": "^1.11.3",
     "varuint-bitcoin": "^1.0.4",
     "wif": "^2.0.1"
